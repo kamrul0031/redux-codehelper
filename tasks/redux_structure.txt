@@ -1,0 +1,6 @@
+steps -> 
+1.create store 
+2.wrap the app with the Provider
+3.create feature / slice
+4.register reducer in store
+
